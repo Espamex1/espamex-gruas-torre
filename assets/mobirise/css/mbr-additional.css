@@ -1820,6 +1820,29 @@ body {
 .cid-rvbw9xenGF .dropdown-item:hover {
   color: #ff8e0c !important;
 }
+.cid-rvdNwU3pxR {
+  padding-top: 120px;
+  padding-bottom: 30px;
+  background-color: #c1c1c1;
+}
+.cid-rvdNwU3pxR .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rvdNwU3pxR .section-text {
+  padding: 2rem 0;
+}
+.cid-rvdNwU3pxR .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rvdNwU3pxR .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-ruOm3mH21l {
   padding-top: 45px;
   padding-bottom: 45px;
